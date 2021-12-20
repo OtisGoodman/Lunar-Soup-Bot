@@ -1,8 +1,8 @@
+
 # Lunar Soup Bot 
-### ***WIP Come back later!***
 *A discord bot for all your soup PVP needs!*
 <br>
-[**Invite Link**](google.com)<br>
+[**Invite  Link**](https://discord.com/oauth2/authorize?client_id=922302593575829545&scope=bot&permissions=117825)<br>
 [**Support Discord Server**](https://discord.gg/rXkfAMphze)
 
 <br>
