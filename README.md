@@ -13,7 +13,7 @@
 
  - [x] Checking player stats
  - [x] Player ranks
- - [ ]  Checking of a player is banned
+ - [ ]  Checking if a player is banned
  - [ ] Soup trivia (maybe :P)
 
 
