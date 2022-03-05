@@ -1,6 +1,5 @@
 
 # Lunar Soup Bot 
-# The lunar website now has a CAPTCHA this project no longer works!
 *A discord bot for all your soup PVP needs!*
 <br>
 [**Invite  Link**](https://discord.com/oauth2/authorize?client_id=922302593575829545&scope=bot&permissions=117825)<br>
