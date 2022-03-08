@@ -14,6 +14,8 @@
  - [x] Checking player stats
  - [x] Player ranks
  - [ ]  Checking if a player is banned
+ - [ ]  Getting the leaderboard
+ - [ ]  Getting the player's position on the leaderboard
  - [ ] Soup trivia (maybe :P)
 
 
